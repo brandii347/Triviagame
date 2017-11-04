@@ -1,0 +1,43 @@
+body {
+	background-image: url("https://artfiles.alphacoders.com/753/75321.jpg");
+}
+
+button {
+	width: 80%;
+	height: 40px;
+	margin: 0 10%;
+	float: left;
+
+}
+
+button.answerchoice {
+	display: none;
+}
+
+button:hover {
+	background-color: blue;
+	color: white;
+}
+
+.answers div {
+	margin: 0 auto;
+}
+
+img {
+	height: 200px;
+	width: auto;
+	align-content: center;
+}
+
+h1, h2, h3, .question{
+	text-align: center;
+	color: yellow;
+	font-size: 45px;
+	padding: 20px;
+}
+
+h1{
+	font-size: 65px;
+}
+.imagelogo {
+}
